@@ -14,13 +14,13 @@ public class Main {
         System.out.println("Значение переменной ¨f¨ с типом double равно "+ f +".");
         System.out.println();
 
-//        float var1 = 27.12f;
-//        long var2 = 987678965549L;
-//        double var3 = 2.786;
-//        short var4 = 569;
-//        int var5 = -159;
-//        char var6 = 27897;
-//        byte var7 = 67;
+        float var1 = 27.12f;
+        long var2 = 987678965549L;
+        double var3 = 2.786;
+        short var4 = 569;
+        int var5 = -159;
+        char var6 = 27897;
+        byte var7 = 67;
 
         byte countStud_LP = 23;
         byte countStud_AS = 27;
